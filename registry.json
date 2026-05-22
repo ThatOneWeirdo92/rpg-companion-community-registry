@@ -1545,5 +1545,19 @@
     "github_repo": "turtl230-code/Lichdom-ascension-feats",
     "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
     "has_system": false
+  },
+  {
+    "name": "Solasta-Crown-of-the-Magister-Feats",
+    "description": "First item in a planned collection. This adds all of the feat selections present in the game Solasta. Enjoy!",
+    "tags": [
+      "5e",
+      "5e2024",
+      "fantasy",
+      "solasta"
+    ],
+    "stars": 0,
+    "github_repo": "ThatOneWeirdo92/Solasta-Crown-of-the-Magister-Feats",
+    "repo_url": "https://ThatOneWeirdo92.github.io/Solasta-Crown-of-the-Magister-Feats/",
+    "has_system": false
   }
 ]
